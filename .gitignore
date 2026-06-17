@@ -1,0 +1,22 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+.venv/
+
+# Data
+data/raw/*.csv
+
+# Model artifacts
+outputs/models/*.joblib
+outputs/models/distilbert_legal/
+outputs/models/distilbert_checkpoints/
+outputs/figures/*.png
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
