@@ -107,5 +107,5 @@ pytest tests/ -v
 
 ## Author
 
-**Alex Rahbarimanesh** — Data Scientist & AI Engineer
+**Ali Rahbarimanesh** — Data Scientist & AI Engineer
 [LinkedIn](https://linkedin.com/in/armanesh) · [GitHub](https://github.com/armanesh)
